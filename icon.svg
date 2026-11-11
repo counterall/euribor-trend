@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="euribor-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2458d8"/>
+      <stop offset="1" stop-color="#0a9f96"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#euribor-bg)"/>
+  <path d="M13 45 23 33.5l7.5 6.5L51 19" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 51h38" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" opacity=".45"/>
+  <circle cx="23" cy="33.5" r="3" fill="#ffffff"/>
+  <circle cx="30.5" cy="40" r="3" fill="#ffffff"/>
+</svg>

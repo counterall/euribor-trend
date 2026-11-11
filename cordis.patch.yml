@@ -1,0 +1,3 @@
+- insert:
+    - id: euribor-trend
+      name: '@local/euribor-trend'

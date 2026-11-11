@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Euribor history",
+    "description": "Adds a sidebar panel with the monthly history of 1-, 3-, 6-, and 12-month Euribor rates, plus an on-demand refresh from the ECB Data Portal."
+  }
+}
